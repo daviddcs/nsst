@@ -1,5 +1,3 @@
-index.md
-
 # NSST MSN INFO
 
-[Background](/docs/background.md)
+[Background](/Docs/background.md)
