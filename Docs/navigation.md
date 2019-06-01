@@ -6,4 +6,6 @@ Airboss script: Active.
 Start Departure/Recovery cycles via F10 menu.  
 AMPL: Remember to taxy clear before initiating depature cycle, otherwise you might fall off deck. 
 AMPL: Note that Airboss does not work in "single-player". Host private MP Session to get Airboss working.  
- 
+
+## Google Earth
+[NSST Google Earth Overlay](NSST_GE.kmz)
