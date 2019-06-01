@@ -8,4 +8,4 @@ AMPL: Remember to taxy clear before initiating depature cycle, otherwise you mig
 AMPL: Note that Airboss does not work in "single-player". Host private MP Session to get Airboss working.  
 
 ## Google Earth
-[NSST Google Earth Overlay](NSST_GE.kmz)
+[NSST Google Earth Overlay](/NavAids/NSST_GE.kmz)
