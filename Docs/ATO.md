@@ -8,5 +8,4 @@
 #### AMPN/RACETRACK, 100Y
 #### //
 
-komigendå
 
