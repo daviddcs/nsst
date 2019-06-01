@@ -1,5 +1,9 @@
 # NAV ASSETS
 
+## CURRENT DEFAULT BULLSEYE IS MADISON  
+N 26 51 00  
+E 056 39 00  
+
 ## CV74
 Current Loc: On partol between Oklahomacity and Raleigh.  
 Airboss script: Active.  
