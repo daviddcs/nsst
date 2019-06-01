@@ -1,3 +1,8 @@
+#### ATO
+
+The ATO in NSST is a selection of taskings available for you to "play" but also contains information about supporting assets.
+
+
 #### ATO Index
   
 VTASK/Tasked Unit ID:/Mission Number:/Briefing Time://  
