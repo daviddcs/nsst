@@ -10,4 +10,4 @@
 
 # Mission File
 
-  [NSST_A40](/Docs/NSST_A40_RELEASE.miz)
+  [NSST_A41](/Docs/NSST_A41_RELEASE.miz)
