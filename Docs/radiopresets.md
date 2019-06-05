@@ -4,9 +4,9 @@ Some A/C are bound to have incorrect presets sooner or later, please notify if s
   
 ## [OP FREQ CLEAR TEXT](/Radios/op_freq_132.md)  
 <br><br>
-![HORNET PRESETS](hornet_presets.png)
+![HORNET PRESETS](/Radios/hornet_presets.png)
 <br><br>
-![A-10C PRESETS](A10PRESETS.PNG)
+![A-10C PRESETS](/Radios/A10PRESETS.PNG)
 <br><br>
 ![OP FREQ](operational_freq.png)  
 <br><br>
