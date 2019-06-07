@@ -1,6 +1,10 @@
 # LOG
 ## Manual entries don't expect to much.
 
+#### 061712ZJUN2019
+Bug fixes, and changes.
+Known issues with A10 presets at Minhad.
+
 #### 051459ZJUN2019
 Updated ATO generation spread, Changed TKR's and E2 so they are now spawned on demand via F10 Radio menu.
 Not pretty at the mo, but allows for environment w/o E2 datalink.

@@ -15,4 +15,4 @@
   
 # Mission File
 
-####  [NSST_A44 LOCAL TIME 0640](/Docs/NSST_A44_RELEASE.miz)
+####  [NSST_A47 LOCAL TIME 0640](/Docs/NSST_A47_RELEASE.miz)
