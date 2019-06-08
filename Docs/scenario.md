@@ -20,3 +20,8 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 6. 696th vSquadron is deployed to Kashab.
 7. 259th Virtual Auxiliary Squadron is deployed to Kashab.
 8. 494th Virtual Fighter Squadron is deployed to Al Dahfra (OMAM)
+
+
+## NARI OOB (WIP)
+1. 
+2. 
