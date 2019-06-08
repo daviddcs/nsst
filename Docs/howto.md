@@ -25,4 +25,5 @@ CIAO//<br>
 
 Select a tasking you like from the ATO.  
 Plan your mission using Navigation aids, Radio presets, and Target List (if applicable).  
+Read NOTAM's  
 Download the mission file, and host MP server.
