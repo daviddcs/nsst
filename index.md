@@ -19,4 +19,4 @@
   
 # Mission File
 
-####  [NSST_A47 LOCAL TIME 0640](/Docs/NSST_A47_RELEASE.miz)
+####  [NSST_A51 LOCAL TIME 0640](/Docs/NSST_A51_RELEASE.miz)
