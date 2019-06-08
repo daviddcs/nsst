@@ -1,7 +1,7 @@
 # 77th Air Defence Battalion (NARI)
 
 ### BACKGROUND
-Nicknamed The Beach Boys, the 77th primary AO includes Bandar Abbas and Qeshm Island. A popular posting amongst Nari enlisted and commissioned personnel, due mainly to the area where it operates mostly. As selection is tighter than average this unit is considered to have a high combat effectiveness.
+Nicknamed The Beach Boys, the 77th primary AO includes Bandar Abbas and Qeshm Island. A popular posting amongst Nari enlisted and commissioned personnel, due mainly to the area where it operates mostly. As selection is tighter than average this unit is presumed to have a higher than normal combat effectiveness.
 
 
 ### EQUIPMENT
