@@ -1,6 +1,9 @@
 # LOG
 ## Manual entries don't expect to much.
 
+#### 070732ZJUN2019
+Added Scenario page, don't laugh.
+
 #### 070629ZJUN2019
 Updated ATO legend with VADMIN, supporting yardstick, prf codes, datalink, and IFF codes.  
 Added Sentry 11, 176th vACS E-3, can be spawned and currently has two sets of locations where it patrols moveable by f10 radios.
