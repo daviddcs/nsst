@@ -19,3 +19,10 @@ JTAC/Type:/CALLSIGN:/Position:/Primary frequency:/Secondary Frequency://<br>
 AMPN/THIS IS AMPLIFICATIONS, DIRECTIVES IN SHORT, <br>
 AND REFERENCING TO OTHER DOCUMENTS<br>
 CIAO//<br>
+
+
+#### FLOW
+
+Select a tasking you like from the ATO.  
+Plan your mission using Navigation aids, Radio presets, and Target List (if applicable).  
+Download the mission file, and host MP server.
