@@ -8,7 +8,7 @@
 ####  [HOWTO](/Docs/howto.md)  
 ####  [LOG](/Docs/log.md)  
 
-# EVENT RECOURCES
+# EVENT RESOURCES
 
 ####  [SCENARIO](/Docs/scenario.md)  
 ####  [ATO](/Docs/ATO.md)  
