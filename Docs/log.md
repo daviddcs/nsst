@@ -1,6 +1,13 @@
 # LOG
 ## Manual entries don't expect to much.
 
+
+#### 091700ZJUN2019
+SAG Nicholas Vello, can now be activated in IADS comm's menu. Worked on some friendly cap for 3 hours, that now dosen't seem to work in MP.
+Miz files are done using latest BETA build. Which has some oddities in gameplay. ..
+Corrected ATO reg. Texaco FL.  
+Last but not least, did a setup for A-10C presets.
+
 #### 090655ZJUN2019
 Silkworm site's have been added to KB N7, Directing page added still WIP, added link to Papi's FLIP under nav. aids.
 
