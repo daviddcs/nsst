@@ -1,6 +1,9 @@
 # LOG
 ## Manual entries don't expect to much.
 
+#### 090655ZJUN2019
+Silkworm site's have been added to KB N7, Directing page added still WIP, added link to Papi's FLIP under nav. aids.
+
 #### 071201ZJUN2019
 Qeshm ADA randomness improved.
 

@@ -16,6 +16,7 @@
 ####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
 ####  [RADIO PRESETS](/Docs/radiopresets.md)  
 ####  [NAVIGATION AIDS](/Docs/navigation.md)  
+####  [DIRECTING AIDS](/Docs/Directing/directing.md)  
   
 # Mission File
 
