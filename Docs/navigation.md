@@ -18,3 +18,6 @@ AMPN: Note that Airboss does not work in "single-player". Host private MP Sessio
 
 ## Combat Flite  
 #### [NSST Combat Flite Overlay](/NavAids/NSST_CF.cf)
+
+## FLIPS
+#### [DCSW FLIP Volume 2 Persian Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
