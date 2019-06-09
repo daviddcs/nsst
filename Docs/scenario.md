@@ -20,8 +20,8 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 7. 259th Virtual Auxiliary Squadron is deployed to Kashab.
 
 ### NAVAL
-1. Carrier Battle Group CVBG74.
-2. FFG-7 USS Nicholas
+1. CVBG5 Carrier Battle Group Five. ()
+2. SAG Nicholas (FFG-7 USS Nicholas, )
 
 
 ## NARI OOB (WIP)
