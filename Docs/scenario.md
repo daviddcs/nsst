@@ -21,7 +21,7 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 
 ### NAVAL
 1. CVBG5 Carrier Battle Group Five. ()
-2. SAG Nicholas (FFG-7 USS Nicholas, )
+2. SAG Nicholas Vella (FFG-7 USS Nicholas, CG-72 USS Vella Gulf )
 
 
 ## NARI OOB (WIP)
