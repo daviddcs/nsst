@@ -32,4 +32,4 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 ### AIR DEFENCE
 1. [77th Air Defense Battalion](/OOB/77TH_AD_BATT.MD)
 2. 5th Air Defense Battalion
-3. 27th Home Guard Air Defense Battalion
+3. [27th Home Guard Air Defense Battalion](/OOB/27TH_HG_BATT.MD)
