@@ -20,7 +20,7 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 7. 259th Virtual Auxiliary Squadron is deployed to Kashab.
 
 ### NAVAL
-1. CVBG5 Carrier Battle Group Five. ()
+1. CSG7 Carrier Strike Group Seven. (CVN-74 USS John C. Stennis, CG-68 USS Anzio, FFG-53 USS Hawes)
 2. SAG Nicholas Vella (FFG-7 USS Nicholas, CG-72 USS Vella Gulf )
 
 
@@ -30,6 +30,9 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 2. 
 
 ### AIR DEFENCE
-1. [77th Air Defense Battalion](/OOB/77TH_AD_BATT.MD)
-2. 5th Air Defense Battalion
-3. [27th Home Guard Air Defense Battalion](/OOB/27TH_HG_BATT.MD)
+1. [77th Air Defence Battalion](/OOB/77TH_AD_BATT.MD)
+2. 5th Air Defence Battalion
+3. [27th Home Guard Air Defence Battalion](/OOB/27TH_HG_BATT.MD)
+
+### GROUND
+1. 8th Army Field Artillery Battalion

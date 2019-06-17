@@ -1,6 +1,8 @@
 # LOG
 ## Manual entries don't expect to much.
 
+#### 171233ZJUN2019
+Added more responsive ENY CAP, friendly on request CAP now works somewhat. Updated CF file with more designations and sorted layers. Updated OOB (light)
 
 #### 091700ZJUN2019
 SAG Nicholas Vello, can now be activated in IADS comm's menu. Worked on some friendly cap for 3 hours, that now dosen't seem to work in MP.
