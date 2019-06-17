@@ -15,6 +15,8 @@ It spawns with EPLRS off and RADAR off. I have no idea how that looks on LotATC 
 
 ## JSON LotATC Overlays
 
+RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
+
 ####  [CONTACT POINTS NARI EAST](/JSON/CP_IRAN_EAST.json)
 ####  [CONTACT POINTS NARI WEST](/JSON/CP_IRAN_WEST.json)
 ####  [IAF NOLSO 312FLIP](/JSON/IAF_NOLSO_312FLIP.json)
