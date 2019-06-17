@@ -25,6 +25,8 @@ It spawns with EPLRS off and RADAR off. I have no idea how that looks on LotATC 
 ####  [NAVP OPUF WEST WET](/JSON/NAVP_OPUF_west_wet.json)
 ####  [NVAP OPUF EAST WET](/JSON/NVAP_OPUF_east_wet.json)  
 
+### KILLBOXES
+
 ####  [KILLBOX MIKE](/JSON/KB/kb_mike.json)
 ####  [KILLBOX NOVEMBER](/JSON/KB/kb_november.json)
 ####  [KILLBOX OSCAR](/JSON/KB/kb_oscar.json)
