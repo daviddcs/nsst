@@ -6,8 +6,8 @@ It spawns with EPLRS off and RADAR off. I have no idea how that looks on LotATC 
   
   The E3 can be repositioned using ingame F10 menus.
 #### LOCATIONS
-  1. Defensive ()
-  2. Offensive East ()
+  1. Defensive (see .cf file)
+  2. Offensive East (see .cf file)
 
 
 ## JSON LotATC Overlays
