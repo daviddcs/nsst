@@ -1,7 +1,7 @@
 # 5th Air Defence Battalion (NARI)
 
 ### BACKGROUND
-Nicknamed The Gate Keepers, the 5th primary AO covers most of southern Nari. This high mobility unit is based around SA-6 and SA-11 systems procured from Russia and the Ukraine in the mid 80's. To augment these systems they also employ SA-15 and SA-8 systems. In addition to IR and ZSU-23 for self defense.
+Nicknamed The Gate Keepers, the 5th primary AO covers most of southern Nari. This high mobility unit is based around SA-6 and SA-11 systems procured from Russia and the Ukraine in the mid 80's. To augment these systems they also employ SA-15 and SA-8 systems. In addition to IR and ZSU-23 for self defence.
 
 
 ### EQUIPMENT
@@ -18,7 +18,7 @@ Nicknamed The Gate Keepers, the 5th primary AO covers most of southern Nari. Thi
 
 
 ### TACTICS
-Often operates in combined units around a SA-6 or SA-11 system, with supporting short range radar and ir systems for self protection.
+Often operates in combined units around a SA-6 or SA-11 system, with supporting short range radar and IR systems for self protection.
 Frequent nightly redeployments have been observed, units rarely spend more than a 8 hours in a single location.  
 Intermittent usage of search radars is SOP.
 
