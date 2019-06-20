@@ -1,6 +1,6 @@
 
 <style>
-.cities {
+.narih1 {
   color: red;
   font-family: roboto;
   font-style: bold;
@@ -37,7 +37,7 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 2. SAG Nicholas Vella (FFG-7 USS Nicholas, CG-72 USS Vella Gulf )
 
 
-<div class="cities">
+<div class="narih1">
 
 ## NARI OOB (WIP)
 
