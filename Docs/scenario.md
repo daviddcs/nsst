@@ -1,7 +1,6 @@
 
 <style>
 .cities {
-  background-color: white;
   color: red;
   font-family: verdana;
   font-size: 300%;
