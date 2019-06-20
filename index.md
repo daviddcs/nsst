@@ -2,9 +2,6 @@
 ![Front IMG](/Docs/front_img2.PNG) 
   <br>
 
-  plong 1744
-
-
 # NSST MSN INFO
 ####  [BACKGROUND](/Docs/background.md)  
 ####  [HOWTO](/Docs/howto.md)  
@@ -12,12 +9,13 @@
 
 # EVENT RESOURCES
 ####  [SCENARIO / TIMELINE](/Docs/scenario.md)  
-####  [INTEL]
+####  [INTELLIGENCE UPDATES]
 
 ####  [RED OOB](/Docs/OOB/OOB_RED.md)
 ####  [BLUE OOB](/Docs/OOBBLUE/BLUE_OOB.md)
 ---
-####  [ATO](/Docs/ATO.md)  
+####  [ACO](/Docs/ACO/ACO.md)
+####  [ATO](/Docs/ATO/ATO.md)  
 ####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
 ####  [NOTAM](/Docs/NOTAM.md)  
 
