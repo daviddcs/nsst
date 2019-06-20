@@ -1,3 +1,17 @@
+
+<html>
+<head>
+<style>
+.cities {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+} 
+</style>
+</head>
+<body>
+
 ## SCENARIO BACKGROUND
 The country of NARI has for decades been a destabilizing factor in the Persian Gulf. Recently diplomatic relations to neighbouring states has collapsed and a state of war has been declared. A NATO led coalition has and is being deployed to the Persian Gulf AO.
 
@@ -24,11 +38,11 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 2. SAG Nicholas Vella (FFG-7 USS Nicholas, CG-72 USS Vella Gulf )
 
 
-<p style="color:Tomato;">
+<div class="cities">
 
 ## NARI OOB (WIP)
 
-</p>
+</div>
 
 ### AVIATION
 1. 6th 
