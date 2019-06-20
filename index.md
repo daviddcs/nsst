@@ -12,8 +12,8 @@
 ####  [SCENARIO / TIMELINE](/Docs/scenario.md)  
 ####  [INTEL]
 
-####  [RED OOB](/Docs/OOB/OOB_RED.MD)
-####  [BLUE OOB](/nsst/Docs/OOB_BLUE/OOB_BLUE.MD)
+####  [RED OOB](/Docs/OOB/OOB_RED.md)
+####  [BLUE OOB](/Docs/OOBBLUE/OOB_BLUE.md)
 ---
 ####  [ATO](/Docs/ATO.md)  
 ####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
