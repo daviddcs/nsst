@@ -5,27 +5,29 @@
 
 
 **EQUIPMENT**  
-Silkworm SSM.  
-Radar ranging eq.  
+SS-C-2 Silkworm.  
+Radar and Optical ranging EQ.  
 Patrol boats.  
-Utility.  
+Utility Vehicles.  
 
 **COMPOSITION**  
 A Costal Artillery Battalion (CAD) consists of two companies with four platoons each. Two battery platoons, one logistics platoon and one reconnaissance platoon.
 
 
-**CAD BATTERY PLT.**  
+* **CAD BATTERY PLT.**  
 Three squads supporting two launchers each.
 
-**CAD LOGISTICS PLT**  
+* **CAD LOGISTICS PLT**  
 Four squads with utility vehicles supporting repositioning and preparation of launch sites.
 
-**CAD RECONNAISSANCE PLT**  
+* **CAD RECONNAISSANCE PLT**  
 Four squads normally operating speedboats or utility vehicles. 
 
  
 **TACTICS**  
- 
+
+
+---
 
 **SS-C-2 INFO**  
 The missile features a round nose accommodating the radar seeker, a pair of mid-mounted delta wings on the middle section of missile body, and three tail control surfaces. The missile is powered by a liquid-fuel rocket motor, with a solid rocket booster attached under the missile fuselage.  
