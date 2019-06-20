@@ -24,7 +24,9 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 2. SAG Nicholas Vella (FFG-7 USS Nicholas, CG-72 USS Vella Gulf )
 
 
-<p style="color:Tomato;">## NARI OOB (WIP)</p>
+<p style="color:Tomato;">
+	## NARI OOB (WIP)
+</p>
 ### AVIATION
 1. 6th 
 2. 
