@@ -11,9 +11,13 @@
 # EVENT RESOURCES
 
 ####  [SCENARIO](/Docs/scenario.md)  
+####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
+####  [INTEL]
+---
 ####  [ATO](/Docs/ATO.md)  
 ####  [NOTAM](/Docs/NOTAM.md)  
-####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
+
+---
 ####  [RADIO PRESETS](/Docs/radiopresets.md)  
 ####  [NAVIGATION AIDS](/Docs/navigation.md)  
 ####  [DIRECTING AIDS](/Docs/Directing/directing.md)  
@@ -22,5 +26,3 @@
 
 ####  [NSST_B19 LOCAL TIME 0620](/Docs/NSST_B19_RELEASE.miz)
 ####  [NSST_B19 LOCAL TIME 0320](/Docs/NSST_B19_RELEASE_0320.miz)  
-####  [NSST_B09 LOCAL TIME 0640](/Docs/NSST_B09_RELEASE.miz)
-####  [NSST_B09 LOCAL TIME 0440](/Docs/NSST_B09_RELEASE_0440.miz)
