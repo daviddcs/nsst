@@ -3,7 +3,7 @@
 .narih1 {
   color: red;
   font-family: roboto;
-  font-style: bold;
+  font-weight: bold;
   font-size: 175%;
   margin: 0px;
   padding: 0px;
@@ -38,9 +38,7 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 
 
 <div class="narih1">
-
 ## NARI OOB (WIP)
-
 </div>
 
 ### AVIATION
