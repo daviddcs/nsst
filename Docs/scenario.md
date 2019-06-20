@@ -3,6 +3,8 @@
 .cities {
   background-color: white;
   color: red;
+  font-family: verdana;
+  font-size: 300%;
   margin: 0px;
   padding: 0px;
 } 
