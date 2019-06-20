@@ -25,7 +25,10 @@ Four squads normally operating speedboats or utility vehicles.
 
  
 **TACTICS**  
-
+Following based on HUMINT from recent desertions.  
+* Frequent redeployments to prepared and unprepared sites using Landrover type vehicles.  
+* Depending on alert posture one or two of the batteries are erected at the same time.  
+* Recon PLT are tasked mostly with local security, including counter-surveillance against the local population.  
 
 ---
 
