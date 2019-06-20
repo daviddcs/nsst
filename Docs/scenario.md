@@ -1,10 +1,10 @@
 
 <style>
 .cities {
-  background-color: black;
-  color: white;
-  margin: 20px;
-  padding: 20px;
+  background-color: white;
+  color: red;
+  margin: 0px;
+  padding: 0px;
 } 
 </style>
 
