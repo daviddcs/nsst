@@ -8,16 +8,10 @@
 ####  [LOG](/Docs/log.md)  
 
 # EVENT RESOURCES
-####  [SCENARIO / TIMELINE](/Docs/scenario.md)  
-####  [INTELLIGENCE UPDATES]
-
-####  [RED OOB](/Docs/OOB/OOB_RED.md)
-####  [BLUE OOB](/Docs/OOBBLUE/BLUE_OOB.md)
+####  [SCENARIO / TIMELINE](/Docs/scenario.md)  |  ####  [INTELLIGENCE UPDATES]
+####  [RED OOB](/Docs/OOB/OOB_RED.md)  |  ####  [BLUE OOB](/Docs/OOBBLUE/BLUE_OOB.md)
 ---
-####  [ACO](/Docs/ACO/ACO.md)
-####  [ATO](/Docs/ATO/ATO.md)  
-####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
-####  [NOTAM](/Docs/NOTAM.md)  
+####  [ACO](/Docs/ACO/ACO.md) | ####  [ATO](/Docs/ATO/ATO.md) | ####  [TARGET LIST](/Docs/targets/maintgtlist.md) | ####  [NOTAM](/Docs/NOTAM.md)  
 
 # ADMIN
 ####  [RADIO PRESETS](/Docs/radiopresets.md)  
