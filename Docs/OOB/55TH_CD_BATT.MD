@@ -21,4 +21,7 @@ Four squads normally operating speedboats or utility vehicles.
 
  
 **KNOWS TACTICS**  
+  
+  1354
 
+-- site.now
