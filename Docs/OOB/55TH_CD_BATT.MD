@@ -5,10 +5,10 @@ The 55th HG-CAB was formed in 1982, little is known about this unit. Reported to
 
 
 ### EQUIPMENT 
-SS-C-2 Silkworm.  
-Radar and Optical ranging EQ.  
-Patrol boats.  
-Utility Vehicles.  
+* SS-C-2 Silkworm.  
+* Radar and Optical ranging EQ.  
+* Patrol boats.  
+* Utility Vehicles.  
 
 ### COMPOSITION 
 A Coastal Artillery Battalion (CAB) consists of two companies with four platoons each. Two battery platoons, one logistics platoon and one reconnaissance platoon.
