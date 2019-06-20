@@ -1,12 +1,14 @@
 
 ![Front IMG](/Docs/front_img2.PNG) 
-  <br>
+
 ---
+
 # EVENT RESOURCES
 ####  [SCENARIO / TIMELINE](/Docs/scenario.md) | [INTELLIGENCE UPDATES] | [RED OOB](/Docs/OOB/OOB_RED.md) | [BLUE OOB](/Docs/OOBBLUE/BLUE_OOB.md)
 ---
 ####  [ACO](/Docs/ACO/ACO.md) | [ATO](/Docs/ATO/ATO.md) | [SPINS] | [TARGET LIST](/Docs/targets/maintgtlist.md) | [NOTAM](/Docs/NOTAM.md)  
 
+---
 # ADMIN
 ####  [RADIO PRESETS](/Docs/radiopresets.md) | [NAVIGATION AIDS](/Docs/navigation.md) | [DIRECTING AIDS](/Docs/Directing/directing.md)  
   
@@ -20,3 +22,4 @@
 ####  [BACKGROUND](/Docs/background.md)  
 ####  [HOWTO](/Docs/howto.md)  
 ####  [LOG](/Docs/log.md)  
+---
