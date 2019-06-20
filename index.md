@@ -3,21 +3,21 @@
   <br>
 
 # NSST MSN INFO
-
 ####  [BACKGROUND](/Docs/background.md)  
 ####  [HOWTO](/Docs/howto.md)  
 ####  [LOG](/Docs/log.md)  
 
 # EVENT RESOURCES
-
-####  [SCENARIO](/Docs/scenario.md)  
-####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
+####  [SCENARIO / TIMELINE](/Docs/scenario.md)  
 ####  [INTEL]
+####  [BLUE OOB](Docs/OOB_BLUE/OOB_BLUE.MD)
+####  [RED OOB](Docs/OOB/OOB_RED.MD)
 ---
 ####  [ATO](/Docs/ATO.md)  
+####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
 ####  [NOTAM](/Docs/NOTAM.md)  
 
----
+# ADMIN
 ####  [RADIO PRESETS](/Docs/radiopresets.md)  
 ####  [NAVIGATION AIDS](/Docs/navigation.md)  
 ####  [DIRECTING AIDS](/Docs/Directing/directing.md)  
