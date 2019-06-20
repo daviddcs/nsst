@@ -33,7 +33,9 @@ The country of NARI has for decades been a destabilizing factor in the Persian G
 
 
 <div class="narih1">
-NARI OOB (WIP)
+
+## NARI OOB (WIP)
+
 </div>
 
 ### AVIATION
