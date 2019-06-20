@@ -1,7 +1,7 @@
 # 55th Home Guard Costal Defence Battalion (NARI)
 
 **BACKGROUND**  
-The 55th HG-CAB was formed in 1982, little is known about this unit. Reported to have been operationally deployed during the Nari / Iraq war. HUMINT suggest postings here are less popular, presumably because of rumored mishaps with liquid rocket propellant.
+The 55th HG-CAB was formed in 1982, little is known about this unit. Reported to have been operationally deployed during the Nari - Iraq war. HUMINT suggest postings here are less popular, presumably because of rumored mishaps with liquid rocket propellant.
 
 
 **EQUIPMENT**  
@@ -15,13 +15,13 @@ A Costal Artillery Battalion (CAB) consists of two companies with four platoons 
 
 
 * **CAB BATTERY PLT.**  
-Three squads supporting two launchers each.
+Three sections supporting two launchers each.
 
 * **CAB LOGISTICS PLT**  
-Four squads with utility vehicles supporting repositioning and preparation of launch sites.
+Four sections with utility vehicles supporting repositioning and preparation of launch sites.
 
 * **CAB RECONNAISSANCE PLT**  
-Four squads normally operating speedboats or utility vehicles. 
+Four sections normally operating speedboats or utility vehicles. 
 
  
 **TACTICS**  
