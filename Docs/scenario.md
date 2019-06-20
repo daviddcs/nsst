@@ -2,11 +2,6 @@
 <style>
 .narih1 {
   color: red;
-  font-family: roboto;
-  font-weight: bold;
-  font-size: 175%;
-  margin: 0px;
-  padding: 0px;
 } 
 </style>
 
