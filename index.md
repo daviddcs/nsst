@@ -1,6 +1,7 @@
 
 ![Front IMG](/Docs/front_img2.PNG) 
   <br>
+  plong 1725
 
 # NSST MSN INFO
 ####  [BACKGROUND](/Docs/background.md)  
@@ -12,7 +13,7 @@
 ####  [INTEL]
 
 ####  [RED OOB](/Docs/OOB/OOB_RED.MD)
-####  [BLUE OOB](/Docs/OOB_BLUE/OOB_BLUE.MD)
+####  [BLUE OOB](/nsst/Docs/OOB_BLUE/OOB_BLUE.MD)
 ---
 ####  [ATO](/Docs/ATO.md)  
 ####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
