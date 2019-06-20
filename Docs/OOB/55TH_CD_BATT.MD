@@ -1,7 +1,7 @@
 # 55th Home Guard Costal Defence Battalion (NARI)
 
 **BACKGROUND**  
-
+The 55th HG-CAB was formed in 1982, little is known about this unit. Reported to have been operationally deployed during the Nari / Iraq war. HUMINT suggest postings here are less popular, presumably because of rumored mishaps with liquid rocket propellant.
 
 
 **EQUIPMENT**  
