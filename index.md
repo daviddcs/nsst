@@ -2,7 +2,7 @@
 ![Front IMG](/Docs/front_img2.PNG) 
   <br>
 
-  plong 1741
+  plong 1744
 
 
 # NSST MSN INFO
@@ -15,7 +15,7 @@
 ####  [INTEL]
 
 ####  [RED OOB](/Docs/OOB/OOB_RED.md)
-####  [BLUE OOB](/Docs/OOBBLUE/OOB_BLUE.md)
+####  [BLUE OOB](/Docs/OOBBLUE/BLUE_OOB.md)
 ---
 ####  [ATO](/Docs/ATO.md)  
 ####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
