@@ -11,16 +11,16 @@ Patrol boats.
 Utility Vehicles.  
 
 **COMPOSITION**  
-A Costal Artillery Battalion (CAD) consists of two companies with four platoons each. Two battery platoons, one logistics platoon and one reconnaissance platoon.
+A Costal Artillery Battalion (CAB) consists of two companies with four platoons each. Two battery platoons, one logistics platoon and one reconnaissance platoon.
 
 
-* **CAD BATTERY PLT.**  
+* **CAB BATTERY PLT.**  
 Three squads supporting two launchers each.
 
-* **CAD LOGISTICS PLT**  
+* **CAB LOGISTICS PLT**  
 Four squads with utility vehicles supporting repositioning and preparation of launch sites.
 
-* **CAD RECONNAISSANCE PLT**  
+* **CAB RECONNAISSANCE PLT**  
 Four squads normally operating speedboats or utility vehicles. 
 
  
