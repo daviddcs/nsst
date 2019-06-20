@@ -1,4 +1,6 @@
-## NATO OOB
+
+# NATO OOB
+
 ### AVIATION
 1. 176th vACS deployed to Liwa AFB (OMSM).
 2. 494th Virtual Fighter Squadron is deployed to Al Dahfra (OMAM)
@@ -11,5 +13,3 @@
 ### NAVAL
 1. CSG7 Carrier Strike Group Seven. (CVN-74 USS John C. Stennis, CG-68 USS Anzio, FFG-53 USS Hawes)
 2. SAG Nicholas Vella (FFG-7 USS Nicholas, CG-72 USS Vella Gulf )
-
-be nice and behave pretty please
