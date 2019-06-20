@@ -10,8 +10,9 @@
 # EVENT RESOURCES
 ####  [SCENARIO / TIMELINE](/Docs/scenario.md)  
 ####  [INTEL]
-####  [BLUE OOB](/Docs/OOB_BLUE/OOB_BLUE.MD)
+
 ####  [RED OOB](/Docs/OOB/OOB_RED.MD)
+####  [BLUE OOB](/Docs/OOB_BLUE/OOB_BLUE.MD)
 ---
 ####  [ATO](/Docs/ATO.md)  
 ####  [TARGET LIST](/Docs/targets/maintgtlist.md)  
