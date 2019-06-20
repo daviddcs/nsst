@@ -2,7 +2,7 @@
 <style>
 .cities {
   color: red;
-  font-family: roboto;
+
   font-size: 300%;
   margin: 0px;
   padding: 0px;
