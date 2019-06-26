@@ -1,6 +1,9 @@
 # LOG
 ## Manual entries don't expect to much.
 
+#### 261230ZJUN2019
+Populated target list with all current defended targets in .miz, added CDE and priority tables.  Updated .cf file with target locations.
+
 #### 171233ZJUN2019
 Added more responsive ENY CAP, friendly on request CAP now works somewhat. Updated CF file with more designations and sorted layers. Updated OOB (light)
 
