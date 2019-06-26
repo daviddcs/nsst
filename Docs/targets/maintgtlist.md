@@ -53,3 +53,11 @@ CDE 2 | HIGH RISK | LARGE CONSEQUENCES | PREPLANNED / AWACS / JTAC
 CDE 3 | MEDIUM RISK | CONSEQUENSES | PREPLANNED / AWACS / JTAC/FAC(A) / SCAR-C
 CDE 4 | SMALL RISK | MINOR CONSEQUENCES | PREPLANNED / FLIGHLEAD+WINGMAN (CONQUER)
 CDE 5 | NO RISK | NO CONSEQUENCES | PREPLANNED / PILOT
+
+LEVEL | EFFECT | MIGITATION
+- | - | -
+CDE 1 | Collateral damage expected - More than 20 expected casualties  Chemical/nuclear/biological weapon spillouts | Accurate: CAT 1 coordinates  Use Precision Guided Munitions
+CDE 2 | Collateral damage Expected - 5-20 casualties | Accurate CAT 1 or 2 coordinates  Use Precision Guided Munitions
+CDE 3 | Risk of collateral: CD objects within 200m | Attack direction to minimize risk to CD object
+CDE 4 | Small risk: CD object within 500m | No CD object within Risk Estimate Distance
+CDE 5 | No risk of collateral damage | None
