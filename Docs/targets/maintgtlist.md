@@ -62,9 +62,12 @@ CDE 4 | Small risk: CD object within 500m | No CD object within Risk Estimate Di
 CDE 5 | No risk of collateral damage | None
 
 #### TARGET PRIORITY GRADE
-1. **PRIORITY 1** The target is a critical factor in the overall outcome of the conflict or a critical enabling objective for the other elements of the mission or will cause an immediate and permanent reduction in the effectiveness of the enemy.  
-2. **PRIORITY 2** The target is an important factor in the overall outcome of the conflict or will cause a long term reduction in the effectiveness of the enemy.  
-3. **PRIORITY 3** The target is an enabling factor for later missions or will cause a temporary reduction in the effectiveness of the enemy.  
+
+PRIORITY | DESC.
+- | -
+PG1 | The target is a critical factor in the overall outcome of the conflict or a critical enabling objective for the other elements of the mission or will cause an immediate and permanent reduction in the effectiveness of the enemy.
+PG2 | The target is an important factor in the overall outcome of the conflict or will cause a long term reduction in the effectiveness of the enemy.
+PG3 | The target is an enabling factor for later missions or will cause a temporary reduction in the effectiveness of the enemy.
 
 #### TARGET CATEGORIES
 
