@@ -68,6 +68,7 @@ CDE 5 | No risk of collateral damage | None
 3. **PRIORITY 3** The target is an enabling factor for later missions or will cause a temporary reduction in the effectiveness of the enemy.  
 
 #### TARGET CATEGORIES
+
 CAT | TYPE
 - | -
 1 | NUCLEAR WEAPONS
