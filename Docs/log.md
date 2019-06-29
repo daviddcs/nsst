@@ -1,6 +1,8 @@
 # LOG
 ## Manual entries don't expect to much.
 
+[BACK TO INDEX](https://daviddcs.github.io/nsst/) 
+
 #### 290853ZJUN2019
 Clean up of client slots.  Adjusted weather mark settings.  Increased radio W of Wizard to 50.  ARCO Track Moved (ATO UPDATED).  Started working on the ACO, so junk in the .cf file at the mo.  Removed the GE .kmz (will not bother with GE)
 
@@ -48,3 +50,5 @@ Added list of nav. points in clear text, also to aid quick copy paste planning.
 
 #### 031630ZJUN2019
 Added clear text translation of op-freq's allowing for easier copy paste, into scratch-pad mod. For rapid flight planning.
+
+[BACK TO INDEX](https://daviddcs.github.io/nsst/) 
