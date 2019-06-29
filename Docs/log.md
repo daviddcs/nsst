@@ -1,6 +1,9 @@
 # LOG
 ## Manual entries don't expect to much.
 
+#### 290853ZJUN2019
+Clean up of client slots.  Adjusted weather mark settings.  Increased radio W of Wizard to 50.  ARCO Track Moved (ATO UPDATED).  Started working on the ACO, so junk in the .cf file at the mo.  Removed the GE .kmz (will not bother with GE)
+
 #### 261230ZJUN2019
 Populated target list with all current defended targets in .miz, added CDE and priority tables.  Updated .cf file with target locations.
 

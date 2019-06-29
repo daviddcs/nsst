@@ -10,11 +10,9 @@ Airboss script: Active.
 Start Departure/Recovery cycles via F10 menu.  
 AMPN: Remember to taxy clear before initiating depature cycle, otherwise you might fall off deck. 
 AMPN: Note that Airboss does not work in "single-player". Host private MP Session to get Airboss working.  
+
 ## CLEAR TEXT NAV POINTS
 #### [NAV P](/NavAids/nav_points_clear.md) 
-
-## Google Earth
-#### [NSST Google Earth Overlay](/NavAids/NSST_GE.kmz)  
 
 ## Combat Flite  
 #### [NSST Combat Flite Overlay](/NavAids/NSST_CF.cf)
