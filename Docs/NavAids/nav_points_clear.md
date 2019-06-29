@@ -1,8 +1,7 @@
 ## NAV POINTS IN CLEAR TEXT  
 leading zero's omitted.
 
-ticker
-[BACK TO INDEX](//index.md) 
+[BACK TO INDEX](https://daviddcs.github.io/nsst/) 
 
 #### NAV POINTS
 PROVIDENCE - N 25 0 0	 - E 57 30 0<br>
