@@ -1,6 +1,7 @@
 ## NAV POINTS IN CLEAR TEXT  
 leading zero's omitted.
 
+[BACK TO INDEX](/index.md) 
 
 #### NAV POINTS
 PROVIDENCE - N 25 0 0	 - E 57 30 0<br>
