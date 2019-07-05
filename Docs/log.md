@@ -3,6 +3,9 @@
 
 #### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
 
+#### 050826ZJUL2019
+Started work on Jabal RGN and MOA, Moved CSG7 furhter east.  Additional work on ACO in CF file.
+
 #### 290853ZJUN2019
 Clean up of client slots.  Adjusted weather mark settings.  Increased radio W of Wizard to 50.  ARCO Track Moved (ATO UPDATED).  Started working on the ACO, so junk in the .cf file at the mo.  Removed the GE .kmz (will not bother with GE)
 
