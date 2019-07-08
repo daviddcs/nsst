@@ -4,9 +4,9 @@
 All MRR transits are to be flown at 1 000FT intervals.  
 Altitude transitions within MRR is prohibited.  
 
-*MRR BASE SEPARATION.  
+**MRR BASE SEPARATION.  
 NORTHBOUND: EVEN 1 000 FT INCREMENTS (120,180)  
-SOUTHBOUND: ODD 1 000 FT INCREMENTS (130,190)*
+SOUTHBOUND: ODD 1 000 FT INCREMENTS (130,190)**
 
 ## ELEVATORS
 Designated altitude transition areas, marked on ACO map overlay as "Elevator" or "*ELEV*"  
@@ -14,10 +14,10 @@ Types:
 *  CenterGrid Elevator marked dot and diameter on map.
 *  Corridor Elevator marked with routing corridor on map.
 
-ELEV BASE SEPARATION.  
+**ELEV BASE SEPARATION.  
 CENTERGRID: CLIMB IN LEFTHAND PATTERN AROUND CENTER POINT.  
 CENTERGRID: DECEND IN RIGHTHAND PATTERN AROUND CENTER POINT.  
-CORRIDORELEV: AS PER MAP ANNOTAION, NORMALLY "UP/DOWN"  
+CORRIDORELEV: AS PER MAP ANNOTAION, NORMALLY "UP/DOWN"**  
 
 ## CSG7 - CCA
 Carrier Strike Group 7 Carrier Control Area extends 40 nm from CSG7, as the location is dynamic be prepared to respond to auth. req. and possible escorts if transiting the CCA.
