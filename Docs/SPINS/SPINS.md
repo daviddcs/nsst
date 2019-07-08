@@ -1,10 +1,10 @@
 # SPINS
 
-## CURRENT DEFAULT BULLSEYE IS MADISON  
+## CURRENT BULLSEYE IS MADISON  
 N 26 51 00  
 E 056 39 00  
 
-## CSG7
+## CSG7 ADMIN
 Current Loc: On partol between IVO BISMARK navpoint.  
 Airboss script: Active.  
 Start Departure/Recovery cycles via F10 menu.  
