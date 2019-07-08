@@ -35,20 +35,7 @@ X9 boxes measure 20x18nm (HxW) and are available in the navigation database with
 XX boxes measure 30x27nm (HxW) these are available on the planning map as an overlay.  
 
 
-# NAV ASSETS
-
-## CURRENT DEFAULT BULLSEYE IS MADISON  
-N 26 51 00  
-E 056 39 00  
-
-## CSG7
-Current Loc: On partol between IVO BISMARK navpoint.  
-Airboss script: Active.  
-Start Departure/Recovery cycles via F10 menu.  
-AMPN: Remember to taxy clear before initiating depature cycle, otherwise you might fall off deck. 
-AMPN: Note that Airboss does not work in "single-player". Host private MP Session to get Airboss working.  
-
-## CLEAR TEXT NAV POINTS
+## CLEAR TEXT NAV POINTS (MIN.SEC ONLY)
 #### [NAV P](/NavAids/nav_points_clear.md) 
 
 ## Combat Flite  
