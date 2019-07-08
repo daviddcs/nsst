@@ -4,9 +4,9 @@
 All MRR transits are to be flown at 1 000FT intervals.  
 Altitude transitions within MRR is prohibited.  
 
-MRR BASE SEPARATION.  
+*MRR BASE SEPARATION.  
 NORTHBOUND: EVEN 1 000 FT INCREMENTS (120,180)  
-SOUTHBOUND: ODD 1 000 FT INCREMENTS (130,190)
+SOUTHBOUND: ODD 1 000 FT INCREMENTS (130,190)*
 
 ## ELEVATORS
 Designated altitude transition areas, marked on ACO map overlay as "Elevator" or "*ELEV*"  
