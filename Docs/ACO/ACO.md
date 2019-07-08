@@ -11,12 +11,12 @@ SOUTHBOUND: ODD 1 000 FT INCREMENTS (130,190)**
 ## ELEVATORS
 Designated altitude transition areas, marked on ACO map overlay as "Elevator" or "*ELEV*"  
 Types:  
-*  CenterGrid Elevator marked dot and diameter on map.
+*  CentreGrid Elevator marked dot and diameter on map.
 *  Corridor Elevator marked with routing corridor on map.
 
 **ELEV BASE SEPARATION.  
-CENTERGRID: CLIMB IN LEFTHAND PATTERN AROUND CENTER POINT.  
-CENTERGRID: DECEND IN RIGHTHAND PATTERN AROUND CENTER POINT.  
+CENTREGRID: CLIMB IN LEFTHAND PATTERN AROUND CENTER POINT.  
+CENTREGRID: DECEND IN RIGHTHAND PATTERN AROUND CENTER POINT.  
 CORRIDORELEV: AS PER MAP ANNOTAION, NORMALLY "UP/DOWN"**  
 
 ## CSG7 - CCA
@@ -26,4 +26,14 @@ Carrier Strike Group 7 Carrier Control Area extends 40 nm from CSG7, as the loca
 ## Tanker Operations
 All AAR tracks are flown at ,500FT.  Exercise caution when rejoining with a tanker operating within an MRR.  IMC rejoins must be performed under radar control.  
 
+## Killboxes
+Two set's of killboxes are currently in effect.  
+- Letter Number Box (X9)  
+- Letter Letter Box (XX)
+
+X9 boxes measure 20x18nm (HxW) and are available in the navigation database with a centre-grid reference.  
+XX boxes measure 30x27nm (HxW) these are available on the planning map as an overlay.  
+
+
+---
 #### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
