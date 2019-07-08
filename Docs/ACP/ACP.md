@@ -38,7 +38,7 @@ XX boxes measure 30x27nm (HxW) these are available on the planning map as an ove
 ## CLEAR TEXT NAV POINTS (MIN.SEC ONLY)
 #### [NAV P](/NavAids/nav_points_clear.md) 
 
-## Combat Flite  
+## ACP MAP 
 #### [NSST Combat Flite Overlay](/NavAids/NSST_CF.cf)
 
 ## FLIP
