@@ -1,5 +1,8 @@
 # Airspace Control Plan
 
+## ACP MAP 
+### [NSST Combat Flite Overlay](/NavAids/NSST_CF.cf)
+
 ## MRR (Minimum Risk Routes)
 All MRR transits are to be flown at 1 000FT intervals.  
 Altitude transitions within MRR is prohibited.  
@@ -38,8 +41,7 @@ XX boxes measure 30x27nm (HxW) these are available on the planning map as an ove
 ## CLEAR TEXT NAV POINTS (MIN.SEC ONLY)
 #### [NAV P](/NavAids/nav_points_clear.md) 
 
-## ACP MAP 
-#### [NSST Combat Flite Overlay](/NavAids/NSST_CF.cf)
+
 
 ## FLIP
 #### [DCSW FLIP Volume 2 Persian Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
