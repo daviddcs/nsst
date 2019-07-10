@@ -3,6 +3,9 @@
 
 #### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
 
+#### 091638ZJUL2019
+Added FOX script to MOA Jabal  
+
 #### 091337ZJUL2019
 Added tankers to Jabal Range, spawn by F10 alert menu.  
 Added RW assets to OMAL  
