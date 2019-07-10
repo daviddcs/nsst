@@ -15,7 +15,7 @@
 ---
 # Mission File
 
-####  [NSST_C05 LOCAL TIME 0620](/Docs/NSST_C05_RELEASE.miz)
+####  [NSST_C08 LOCAL TIME 0620](/Docs/NSST_C08_RELEASE.miz)
 
 ---
 # NSST MSN INFO

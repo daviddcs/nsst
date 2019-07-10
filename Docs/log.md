@@ -3,6 +3,11 @@
 
 #### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
 
+#### 091337ZJUL2019
+Added tankers to Jabal Range, spawn by F10 alert menu.  
+Added RW assets to OMAL  
+Added Agressor GCI ship, on demand by F10 alert menu.
+
 #### 080907ZJUL2019
 ACP ACO Logic change.  
 ACP Creation.  
