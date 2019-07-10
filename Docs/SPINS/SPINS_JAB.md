@@ -56,3 +56,4 @@ Start Departure/Recovery cycles via F10 menu.
 AMPN: Remember to taxy clear before initiating departure cycle, otherwise you might fall off deck. 
 AMPN: Note that Airboss does not work in "single-player". Host private MP Session to get Airboss working.  
 
+#### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
