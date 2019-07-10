@@ -6,7 +6,7 @@
 #### 091337ZJUL2019
 Added tankers to Jabal Range, spawn by F10 alert menu.  
 Added RW assets to OMAL  
-Added Agressor GCI ship, on demand by F10 alert menu.
+Added Aggressor GCI ship, on demand by F10 alert menu.
 
 #### 080907ZJUL2019
 ACP ACO Logic change.  
@@ -15,7 +15,7 @@ Spins added.
 ACP Map update.  
 
 #### 050826ZJUL2019
-Started work on Jabal RGN and MOA, Moved CSG7 furhter east.  Additional work on ACO in CF file.
+Started work on Jabal RGN and MOA, Moved CSG7 further east.  Additional work on ACO in CF file.
 
 #### 290853ZJUN2019
 Clean up of client slots.  Adjusted weather mark settings.  Increased radio W of Wizard to 50.  ARCO Track Moved (ATO UPDATED).  Started working on the ACO, so junk in the .cf file at the mo.  Removed the GE .kmz (will not bother with GE)
@@ -27,7 +27,7 @@ Populated target list with all current defended targets in .miz, added CDE and p
 Added more responsive ENY CAP, friendly on request CAP now works somewhat. Updated CF file with more designations and sorted layers. Updated OOB (light)
 
 #### 091700ZJUN2019
-SAG Nicholas Vello, can now be activated in IADS comm's menu. Worked on some friendly cap for 3 hours, that now dosen't seem to work in MP.
+SAG Nicholas Vello, can now be activated in IADS comm's menu. Worked on some friendly cap for 3 hours, that now doesn't seem to work in MP.
 Miz files are done using latest BETA build. Which has some oddities in gameplay. ..
 Corrected ATO reg. Texaco FL.  
 Last but not least, did a setup for A-10C presets.
@@ -48,12 +48,12 @@ Added Sentry 11, 176th vACS E-3, can be spawned and currently has two sets of lo
 Known issues with v47  
 A10 presets
 Airboss menu failure.
-Moose radio menu apperance.
+Moose radio menu appearance.
 
 
 #### 061712ZJUN2019
 Bug fixes, and changes.
-Known issues with A10 presets at Minhad.
+Known issues with A10 pre-sets at Minhad.
 
 #### 051459ZJUN2019
 Updated ATO generation spread, Changed TKR's and E2 so they are now spawned on demand via F10 Radio menu.
