@@ -3,6 +3,12 @@
 
 #### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
 
+#### 191918ZNOV2019
+Change scenario timeline, remove mod requiring units.  
+Added 4S Vipers OMAM.  
+Change Texaco FL/SPEED to support Vipers.  
+Update ATO with Texaco information.  
+
 #### 091638ZJUL2019
 Added FOX script to MOA Jabal  
 
