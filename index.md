@@ -20,8 +20,8 @@
 ---
 ## Mission File
 
-####  [NSST_C11 LOCAL TIME 0620](/Docs/NSST_C11_RELEASE_0620.miz)
-####  [NSST_C11 LOCAL TIME 0820](/Docs/NSST_C11_RELEASE_0820.miz)
+####  [NSST_C20 LOCAL TIME 0720](/Docs/NSST_C20_RELEASE_0720.miz)
+
 
 
 ---
