@@ -10,10 +10,6 @@
 ####  [ACO/ATO](/Docs/ATO/ATO.md) | [SPINS](Docs/SPINS/SPINS.md) | [TARGET LIST](/Docs/targets/maintgtlist.md) | [NOTAM](/Docs/NOTAM.md)  
 
 ---
-### SCENARIO #2 PRELUDE TO WAR, TRAINING OPERATIONS
-####  [ACO/ATO](/Docs/ATO/ATO_JAB.md) | [SPINS](Docs/SPINS/SPINS_JAB.md) | [TARGET LIST](/Docs/targets/maintgtlist_JAB.md) | [NOTAM](/Docs/NOTAM_JAB.md)  
-
----
 ## ADMIN
 ####  [RADIO PRESETS](/Docs/radiopresets.md) | [DIRECTING AIDS](/Docs/Directing/directing.md)  
   
