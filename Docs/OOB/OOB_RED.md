@@ -1,7 +1,7 @@
 ## NARI OOB (WIP)
 
 ### AVIATION
-1. 6th 
+1. [6th Air Intercept Regiment](/6TH_AI_REG.MD) 
 2. 
 
 ### AIR DEFENCE
