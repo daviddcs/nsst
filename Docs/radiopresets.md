@@ -4,8 +4,6 @@ Some A/C are bound to have incorrect presets sooner or later, please notify if s
 
 ## [OP FREQ](http://132virtualwing.org/index.php/page/freqlist)
 
-## [OP FREQ CLEAR TEXT](/Radios/op_freq_132.md)
-
 ## [HORNET PRESETS](/Radios/hornet_presets.png)
 
 ## [A-10C PRESETS](/Radios/A10PRESETS.PNG)
