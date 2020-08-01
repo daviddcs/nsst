@@ -1,6 +1,6 @@
 #### ATO
 
-The ATO in NSST is a selection of taskings available for you to "play" but also contains information about supporting assets.
+The static ATO contains information about supporting assets. Normally launched by F10 menu.
 
 
 #### ATO Index
@@ -23,9 +23,8 @@ CIAO//<br>
 
 #### FLOW
 
-Select a tasking you like from the ATO.  
-Plan your mission using Navigation aids, Radio presets, and Target List (if applicable).  
+Plan your mission using Navigation aids (ACP), 132nd ATO, and Target List (if applicable).  
 Read NOTAM's  
-Download the mission file, and host MP server.
+
 
 #### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
