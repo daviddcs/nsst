@@ -3,10 +3,12 @@
 
 ### AVIATION
 1. 176th vACS deployed to Liwa AFB (OMSM).
-2. 494th Virtual Fighter Squadron is deployed to Al Dahfra (OMAM)
-3. 617th vSquadron deployed to OMAM, FOB OMDM.
+2. 494th vFighter Squadron is deployed to Al Minhad (OMDM)
+3. 617th vFighter Squadron deployed to Al Minhad (OMDM)
+3. 388th vFighter Squadron deployed to Al Minhad (OMDM)
+3. 108th vFighter Squadron deployed to Al Minhad (OMDM)
 4. 906th Tactical Refuelling Squadron deployed to OMAL.
-5. 696th vSquadron is deployed to Kashab.
+5. 696th vHelicopter Squadron is deployed to Kashab.
 6. 259th Virtual Auxiliary Squadron is deployed to Kashab.
 
 ### NAVAL
